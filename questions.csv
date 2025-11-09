@@ -1,0 +1,15 @@
+題目,選項A,選項B,選項C,選項D,正確答案
+什麼是 JavaScript 中的變數宣告關鍵字？,var,int,string,double,A
+HTML 中的 DOCTYPE 是什麼？,CSS 樣式表,程式語言,文件類型宣告,網頁標題,C
+RGB 色彩中的 G 代表什麼顏色？,紅色,綠色,藍色,黃色,B
+哪個 HTML 標籤用於創建超連結？,<link>,<a>,<href>,<url>,B
+CSS 中 margin 和 padding 的主要區別是什麼？,內部與外部間距,顏色與大小,寬度與高度,位置與形狀,A
+程式中迴圈的主要用途是什麼？,儲存數據,重複執行程式碼,宣告變數,定義函數,B
+什麼是 API？,應用程式介面,程式語言,網頁設計,資料庫,A
+HTML5 中新增了哪個多媒體標籤？,<media>,<video>,<play>,<movie>,B
+在 p5.js 中，哪個函式用於設置畫布大小？,createWindow,makeCanvas,createCanvas,setCanvas,C
+p5.js 中，哪個函式會在程式開始時執行一次？,start,begin,setup,init,C
+p5.js 中，哪個函式會持續重複執行？,loop,run,repeat,draw,D
+p5.js 中，要畫一個圓形應該使用什麼函式？,circle,round,drawCircle,ellipse,A
+在 p5.js 中，要使用鍵盤輸入要用哪個函式？,keyPressed,onKeyDown,checkKey,getKey,A
+p5.js 中，要設定填充顏色應該使用什麼函式？,color,setFill,fill,background,C
